@@ -9,11 +9,14 @@
 <h3 align="center">A Passionate Data Engineer optimizing workflows and solving complex data challenges.</h3>
 
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhanvip20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhanvip20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  
+  <a href="https://github-readme-stats.vercel.app/api?username=Jhanvip20&show_icons=true&theme=dark" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jhanvip20&show_icons=true&theme=dark" alt="GitHub Stats" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/felipecastrosales/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhanvip20&layout=compact&theme=dark" alt="Top Languages" style="max-width: 100%;">
+  </a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhanvip20&" alt="jhanvip20" /></p>
 </div>
 
