@@ -17,7 +17,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhanvip20&layout=compact&theme=dark" alt="Top Languages" style="max-width: 100%;">
   </a>
 
-<p><a href="https://git.io/streak-stats"><img src="https://user-images.githubusercontent.com/20955511/183303735-66e35638-0fa3-40f4-b9aa-9b6c284eac8f.png?user=Jhanvip20" alt="Jhanvip20" /></a></p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jhanvip20" alt="Jhanvip20" /></a></p>
 </div>
 
 <h2 align="left">📫Connect with me:</h2>
