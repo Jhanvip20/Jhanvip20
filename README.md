@@ -22,7 +22,7 @@
 
 <h2 align="left">📫Connect with me:</h2>
 <p align="left">
-"""<li><a href="https://www.linkedin.com/in/jkp72/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jhanvi-patel-720a4916a" height="30" width="40" /> LinkedIn</a></li>"""
+<li><a href="https://www.linkedin.com/in/jkp72/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jhanvi-patel-720a4916a" height="30" width="40" /> LinkedIn</a></li>
 <li><a href="https://www.hackerrank.com/profile/jhanvipatel2096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/jhanvipatel2096" height="30" width="40" /> HackerRank</a></li>
 <li><a href="https://leetcode.com/u/jhanvip_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jhanvip_20/" height="30" width="40" /> LeetCode</a></li>
 <li><a href="https://www.geeksforgeeks.org/user/jhanvipaewev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/jhanvipaewev/" height="30" width="40" /> GeeksForGeeks</a></li>
