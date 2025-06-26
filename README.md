@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">A Passionate Data Engineer optimizing workflows and solving complex data challenges.</h3>
+<h3 align="center">A Passionate Software and QA Engineer optimizing workflows and solving complex data challenges.</h3>
 
 
 <div align="center">
